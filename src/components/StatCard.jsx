@@ -17,7 +17,7 @@ export default function StatCard({ label, value }) {
       <span style={{ fontSize: 10, letterSpacing: "0.12em", color: "rgba(255,255,255,0.35)", textTransform: "uppercase", fontFamily: "'DM Mono', monospace" }}>
         {label}
       </span>
-      <span style={{ fontSize: 19, fontWeight: 700, color: "rgba(255,255,255,0.92)", fontFamily: "'Syne', sans-serif", lineHeight: 1.15 }}>
+      <span style={{ fontSize: 19, fontWeight: 700, color: "rgba(255,255,255,0.92)", fontFamily: "'Outfit', sans-serif", lineHeight: 1.15 }}>
         {value}
       </span>
     </div>
